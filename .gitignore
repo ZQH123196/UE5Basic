@@ -1,0 +1,22 @@
+
+
+# 编译时生成的中间文件
+Intermediate/*
+Plugins/*/Intermediate/*
+
+# 生成的二进制
+Binaries/*
+
+# 缓存文件
+DerivedDataCache/*
+
+# Visual Studio
+.vs
+
+# jetbrain
+.idea
+
+# 日志文件
+Saved/Logs
+
+
